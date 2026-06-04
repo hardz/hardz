@@ -20,7 +20,7 @@ Currently focused on healthcare and wellness products while exploring modern And
 * XML → Jetpack Compose migration patterns
 * Android CLI workflows and automation
 * AI-assisted development tools in Android Studio
-* Modern Android and Kotlin tooling announced at Google I/O 2026 and Kotlin Cong 2026
+* Modern Android and Kotlin tooling announced at Google I/O 2026 and Kotlin Conf 2026
 
 ### 🛠 Core Technologies
 
