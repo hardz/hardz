@@ -43,6 +43,12 @@ Over 10 years of experience delivering Android applications across healthcare, f
 
 Remote opportunities, technical discussions, open-source collaboration, and building products that solve real-world problems.
 
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hardik%20Kubavat-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hardik-kubavat/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hardz.kubavat@email.com)
+
 ---
 
 > “Clean code always looks like it was written by someone who cares.” ― Robert C. Martin,
